@@ -184,7 +184,7 @@
 int main()
 {
 	int arr[3][3] = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
-	int a,b,i,j;
+	int a, b, i, j;
 	printf("请输入你需要查找的数字：");
 	scanf("%d", &a);
 	for (i = 0; i < 3; i++)
@@ -198,9 +198,3 @@ int main()
 	}
 	return 0;
 }
-
-
-
-
-
-
