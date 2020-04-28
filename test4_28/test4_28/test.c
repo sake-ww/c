@@ -21,32 +21,32 @@
 //4         +           4        =8
 //注：int a : (这个数字不能大于32)
 
-struct S
-{
-	char a : 3;
-	char b : 4;
-	char c : 5;
-	char d : 4;
-};
-
-int main()
-{
-	struct S s = {0};
-
-	s.a = 10;
-	s.b = 20;
-	s.c = 3;
-	s.d = 4;
-	printf("%d\n", sizeof(s));//
-	printf("%d %d %d %d ", s.a, s.b, s.c, s.d);//2 4 3 4因为内存只有3454，
-	//内存中的存储过程：
-	//   3     4      5      4
-	//a 010 b 0100 c 00011 d 0100
-	//0010 0100  0000 0011 0000 0100  0000 0000
-	//2      2    0     3    0   4     0    0          
-	//printf("%d ", *(&s));
-	return 0;
-}
+//struct S
+//{
+//	char a : 3;
+//	char b : 4;
+//	char c : 5;
+//	char d : 4;
+//};
+//
+//int main()
+//{
+//	struct S s = {0};
+//
+//	s.a = 10;
+//	s.b = 20;
+//	s.c = 3;
+//	s.d = 4;
+//	printf("%d\n", sizeof(s));//
+//	printf("%d %d %d %d ", s.a, s.b, s.c, s.d);//2 4 3 4因为内存只有3454，
+//	//内存中的存储过程：
+//	//   3     4      5      4
+//	//a 010 b 0100 c 00011 d 0100
+//	//0010 0100  0000 0011 0000 0100  0000 0000
+//	//2      2    0     3    0   4     0    0          
+//	//printf("%d ", *(&s));
+//	return 0;
+//}
 //3+4  5     4
 //1  + 1 +   1=3
 
@@ -64,6 +64,22 @@ int main()
 //2. 位段的空间上是按照需要以4个字节（ int ）或者1个字节（ char ）的方式来开辟的。
 //3. 位段涉及很多不确定因素，位段是不跨平台的，注重可移植的程序应该避免使用位段。
 
+#include<stdio.h>
+int main()
+{
+	float F1(int i = 0);
+	return 0;
+}
+float F1(int i = 1)
+{
+	int F2(int i = 2);
+	return 0;
+}
+int F2(int i = 2)
+{
+	int a = i;
+	return a;
+}
 
 
 

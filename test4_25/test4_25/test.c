@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 
-#include<stdio.h>
+//#include<stdio.h>
 //结构体传参
 //struct S
 //{
@@ -30,7 +30,7 @@
 //	tmp.c = 'w';
 //	tmp.d = 3.14;
 //	printf("%d %c %f\n", tmp.a, tmp.c, tmp.d);//可以输出
-//	                                          //表明这个传参传递的是类型而不是数值
+//	                                          表明这个传参传递的是类型而不是数值
 //}
 //int main()
 //{
@@ -41,10 +41,10 @@
 //}
 //输出结果为：100 w 3.140000
 //            0   0.000000
-
+//
 //tmp和s  的地址不一样
 //表明：Init(s);传递的结构体不能被改变，如果想改变，则需要传址
-
+//-----------------------------------------------------------------
 //struct S
 //{
 //	int a;
@@ -67,7 +67,7 @@
 //}
 //输出结果为：100 w 3.140000
 //            100 w 3.140000
-
+//----------------------------------------------------------------
 //struct S
 //{
 //	int a;
@@ -92,7 +92,7 @@
 //	Print1(s);//打印结构体时，可以直接传s（传值）
 //	return 0;
 //}
-
+//--------------------------------------------------------------
 struct S
 {
 	int a;
@@ -105,8 +105,7 @@ void Init(struct S* ps)
 	ps->c = 'w';
 	ps->d = 3.14;
 }
-void Print2(struct S* ps)
-//void Print2(const struct S* ps)//防止ps被改变
+void Print2(struct S* ps)//等同于void Print2(const struct S* ps)//防止ps被改变
 {
 	printf("%d %c %f", ps->a, ps->c, ps->d);
 }
