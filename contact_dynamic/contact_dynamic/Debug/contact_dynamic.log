@@ -1,0 +1,6 @@
+﻿  test.c
+  contact.c
+c:\users\wyw15\desktop\新建代码1\contact_dynamic\contact_dynamic\contact.c(7): warning C4133: “=”: 从“peoInfo *”到“PeoInfo *”的类型不兼容
+  正在生成代码...
+c:\users\wyw15\desktop\新建代码1\contact_dynamic\contact_dynamic\contact.c(109): warning C4715: “FindByName”: 不是所有的控件路径都返回值
+  contact_dynamic.vcxproj -> C:\Users\wyw15\Desktop\新建代码1\contact_dynamic\Debug\contact_dynamic.exe
