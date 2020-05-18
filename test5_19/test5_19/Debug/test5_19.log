@@ -1,0 +1,3 @@
+﻿test.obj : error LNK2005: _main 已经在 add.obj 中定义
+test.obj : error LNK2019: 无法解析的外部符号 _Add，该符号在函数 _main 中被引用
+C:\Users\wyw15\Desktop\新建代码1\test5_19\Debug\test5_19.exe : fatal error LNK1120: 1 个无法解析的外部命令
