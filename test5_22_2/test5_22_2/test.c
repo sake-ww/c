@@ -1,7 +1,4 @@
 #define _CRT_SECURE_NO_WARNINGS 1
-
-#define _CRT_SECURE_NO_WARNINGS 1
-
 //重新上传
 //报告1
 //第一题
