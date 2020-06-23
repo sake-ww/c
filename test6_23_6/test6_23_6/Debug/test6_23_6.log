@@ -1,0 +1,5 @@
+﻿  test.c
+c:\users\wyw15\desktop\新建代码1\test6_23_6\test6_23_6\test.c(90): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+c:\users\wyw15\desktop\新建代码1\test6_23_6\test6_23_6\test.c(91): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+c:\users\wyw15\desktop\新建代码1\test6_23_6\test6_23_6\test.c(87): warning C4101: “z”: 未引用的局部变量
+  test6_23_6.vcxproj -> C:\Users\wyw15\Desktop\新建代码1\test6_23_6\Debug\test6_23_6.exe

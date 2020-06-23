@@ -1,11 +1,16 @@
 #define _CRT_SECURE_NO_WARNINGS 1
-//【程序1】
+//
+//【程序】
 //题目：有1、2、3、4个数字，能组成多少个互不相同且无重复数字的三位数？都是多少？
 //1.程序分析：可填在百位、十位、个位的数字都是1、2、3、4。组成所有的排列后再去
 //掉不满足条件的排列。
-
+//
+//
+//
 //2.程序源代码：
-
+//
+//
+//
 //#include<stdio.h>
 //#include<stdlib.h>
 //#include<string.h>
@@ -36,8 +41,8 @@
 //100万元时，超过100万元的部分按1%提成，从键盘输入当月利润i，求应发放奖金总数？
 //1.程序分析：请利用数轴来分界，定位。注意定义时需把奖金定义成长整型。　　　　　　
 //2.程序源代码：
-
-
+//
+//
 //
 //#include<stdio.h>
 //#include<stdlib.h>
@@ -73,126 +78,21 @@
 //的结果满足如下条件，即是结果。请看具体分析：
 //2.程序源代码：
 
-
-
-//#include<stdio.h>
-//#include<stdlib.h>
-//#include<string.h>
-//#include<math.h>
-//int main()
-//{
-//	long int i, x, y, z;
-//	for (i = 0; i < 100000; i++)
-//	{
-//		x = sqrt(i + 100);
-//		y = sqrt(i + 268);
-//		if (x*x == (i + 100) && y*y == (i + 268))	//完全平方数：自己*自己=数的平方形式 
-//		{
-//			printf("\n%ld\n", i);
-//		}
-//	}
-//	return 0;
-//}
-//【程序4】
-//题目：输入某年某月某日，判断这一天是这一年的第几天？
-//1.程序分析：以3月5日为例，应该先把前两个月的加起来，然后再加上5天即本年的第几天，特殊
-//情况，闰年且输入月份大于3时需考虑多加一天。
-//2.程序源代码：
-
-
-
-//#include<stdio.h>
-//#include<stdlib.h>
-//#include<string.h>
-//#include<math.h>
-//int main()
-//{
-//	int year, month, day, sum, leap;
-//	printf("输入格式为：年-月-日\n");
-//	scanf("%d-%d-%d", &year, &month, &day);
-//	switch (month)
-//	{
-//	case 1:
-//		sum = 0;
-//		break;
-//	case 2:
-//		sum = 31;
-//		break;
-//	case 3:
-//		sum = 59;
-//		break;
-//	case 4:
-//		sum = 90;
-//		break;
-//	case 5:
-//		sum = 120;
-//		break;
-//	case 6:
-//		sum = 151;
-//		break;
-//	case 7:
-//		sum = 181;
-//		break;
-//	case 8:
-//		sum = 212;
-//		break;
-//	case 9:
-//		sum = 243;
-//		break;
-//	case 10:
-//		sum = 273;
-//		break;
-//	case 11:
-//		sum = 304;
-//		break;
-//	case 12:
-//		sum = 334;
-//		break;
-//	}
-//	sum += day;
-//	if (year % 400 == 0 || (year % 4 == 0 && year % 100 != 0))
-//		leap = 1;
-//	else
-//		leap = 0;
-//	if (leap = 1 && month > 2)
-//		sum++;
-//	printf("这一天是这一年的第%d天", sum);
-//	return 0;
-//}
-//【程序5】
-//题目：输入三个整数x, y, z，请把这三个数由小到大输出。
-//1.程序分析：我们想办法把最小的数放到x上，先将x与y进行比较，如果x>y则将x与y的值进行交换，
-//然后再用x与z进行比较，如果x>z则将x与z的值进行交换，这样能使x最小。
-//2.程序源代码：
-
-
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
 #include<math.h>
 int main()
 {
-	int x, y, z, t;
-	scanf("%d,%d,%d", &x, &y, &z);
-	if (x > y)
+	long int i, x, y, z;
+	for (i = 0; i < 100000; i++)
 	{
-		t = x;
-		x = y;
-		y = t;
+		x = sqrt(i + 100);
+		y = sqrt(i + 268);
+		if (x*x == (i + 100) && y*y == (i + 268))	//完全平方数：自己*自己=数的平方形式 
+		{
+			printf("\n%ld\n", i);
+		}
 	}
-	if (x > z)
-	{
-		t = x;
-		x = z;
-		z = t;
-	}
-	if (y > z)
-	{
-		t = y;
-		y = z;
-		z = t;
-	}
-	printf("\n%d,%d,%d\n", x, y, z);
 	return 0;
 }
