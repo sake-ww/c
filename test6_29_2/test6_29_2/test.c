@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 
-
+//
 //【程序21】
 //题目：猴子吃桃问题：猴子第一天摘下若干个桃子，当即吃了一半，还不瘾，又多吃了一个
 //第二天早上又将剩下的桃子吃掉一半，又多吃了一个。以后每天早上都吃了前一天剩下
@@ -67,64 +67,25 @@
 //2.程序源代码：
 //代码如下 :
 //
-//#include<stdio.h>
-//int main()
-//{
-//	int i, j, k;
-//	for (i = 0; i <= 3; i++)
-//	{
-//		for (j = 0; j <= 2 - i; j++)
-//			printf(" ");
-//		for (k = 0; k <= 2 * i; k++)
-//			printf("*");
-//		printf("\n");
-//	}
-//	for (i = 0; i <= 2; i++)
-//	{
-//		for (j = 0; j <= i; j++)
-//			printf(" ");
-//		for (k = 0; k <= 4 - 2 * i; k++)
-//			printf("*");
-//		printf("\n");
-//	}
-//	return 0;
-//}
-//
-//【程序24】
-//题目：有一分数序列：2 / 1，3 / 2，5 / 3，8 / 5，13 / 8，21 / 13…求出这个数列的前20项之和。
-//1.程序分析：请抓住分子与分母的变化规律。
-//2.程序源代码：
-//代码如下 :
-//
-//#include<stdio.h>
-//int main()
-//{
-//	int n, t, number = 20;
-//	float a = 2, b = 1, s = 0;
-//	for (n = 1; n <= number; n++)
-//	{
-//		s = s + a / b;
-//		t = a; a = a + b; b = t;/*这部分是程序的关键，请读者猜猜t的作用*/
-//	}
-//	printf("sum is %9.6f\n", s);
-//	return 0;
-//}
-//
-//【程序25】
-//题目：求1 + 2!+ 3!+ … + 19!的和
-//1.程序分析：此程序只是把累加变成了累乘。
-//2.程序源代码：
-//代码如下 :
-//
-//#include<stdio.h>
-//int main()
-//{
-//	long long s = 0, n, t = 1;
-//	for (n = 1; n <= 19; n++)
-//	{
-//		t *= n;
-//		s += t;
-//	}
-//	printf("1+2!+3!...+19!=%lld\n", s);
-//	return 0;
-//}
+#include<stdio.h>
+int main()
+{
+	int i, j, k;
+	for (i = 0; i <= 3; i++)
+	{
+		for (j = 0; j <= 2 - i; j++)
+			printf(" ");
+		for (k = 0; k <= 2 * i; k++)
+			printf("*");
+		printf("\n");
+	}
+	for (i = 0; i <= 2; i++)
+	{
+		for (j = 0; j <= i; j++)
+			printf(" ");
+		for (k = 0; k <= 4 - 2 * i; k++)
+			printf("*");
+		printf("\n");
+	}
+	return 0;
+}
