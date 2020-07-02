@@ -1,0 +1,5 @@
+﻿  test.c
+c:\users\wyw15\desktop\新建代码1\test7_2\test7_2\test.c(58): warning C4101: “a”: 未引用的局部变量
+c:\users\wyw15\desktop\新建代码1\test7_2\test7_2\test.c(58): warning C4101: “line”: 未引用的局部变量
+c:\users\wyw15\desktop\新建代码1\test7_2\test7_2\test.c(58): warning C4101: “j”: 未引用的局部变量
+  test7_2.vcxproj -> C:\Users\wyw15\Desktop\新建代码1\test7_2\Debug\test7_2.exe
