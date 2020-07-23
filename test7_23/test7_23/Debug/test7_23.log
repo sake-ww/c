@@ -1,0 +1,2 @@
+﻿  test.c
+c:\users\wyw15\desktop\新建代码1\test7_23\test7_23\test.c(20): error C4700: 使用了未初始化的局部变量“sum”
