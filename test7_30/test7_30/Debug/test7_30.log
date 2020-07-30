@@ -1,0 +1,57 @@
+﻿  test.cpp
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(4): error C2059: 语法错误:“数字上的错误后缀”
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(4): error C2059: 语法错误:“常量”
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(11): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(11): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(14): error C2059: 语法错误:“常量”
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(16): error C2146: 语法错误: 缺少“;”(在标识符“同名称的命名空间合并成一个”的前面)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(16): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(16): error C2143: 语法错误 : 缺少“;”(在“常量”的前面)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(17): error C2653: “直接在成员前加命名空间名字”: 不是类或命名空间名称
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(17): error C2653: “N”: 不是类或命名空间名称
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(18): error C2653: “命名空间中的某些成员在当前文件中频繁的访问，如果每次都N”: 不是类或命名空间名称
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(18): error C2653: “N”: 不是类或命名空间名称
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(19): error C2143: 语法错误 : 缺少“;”(在“>>”的前面)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(19): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(20): error C2059: 语法错误:“数字上的错误后缀”
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(26): error C2143: 语法错误 : 缺少“;”(在“<<”的前面)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(26): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(27): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(27): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(28): error C2014: 预处理器命令必须作为第一个非空白空间启动
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(30): error C2143: 语法错误 : 缺少“;”(在“++”的前面)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(30): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(30): error C2143: 语法错误 : 缺少“;”(在“.”的前面)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(38): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(38): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(40): error C2146: 语法错误: 缺少“;”(在标识符“c语言编译器对返回值类型检测不严格”的前面)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(40): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(40): error C2146: 语法错误: 缺少“;”(在标识符“在C”的前面)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(40): error C2143: 语法错误 : 缺少“;”(在“++”的前面)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(40): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(40): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(41): error C2146: 语法错误: 缺少“;”(在标识符“c”的前面)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(41): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(41): error C2143: 语法错误 : 缺少“;”(在“++”的前面)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(55): error C2059: 语法错误:“数字上的错误后缀”
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(58): error C2065: “d”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(59): error C2144: 语法错误:“double”的前面应有“;”
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(59): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(59): error C2373: “rd”: 重定义；不同的类型修饰符
+          c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(58) : 参见“rd”的声明
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(59): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(61): error C2146: 语法错误: 缺少“;”(在标识符“整型类型的变量去引用double的变量显然不行”的前面)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(61): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(62): error C2146: 语法错误: 缺少“;”(在标识符“double可以与int进行隐式类型转化”的前面)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(62): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(62): error C2146: 语法错误: 缺少“;”(在标识符“在其中过程中创建了一个临时变量”的前面)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(62): error C2146: 语法错误: 缺少“;”(在标识符“，此时引用的不是double，而是一个临时空间，我们即不知道它的名字，也不知道它的地址，想要对其进行修改”的前面)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(62): error C2143: 语法错误 : 缺少“;”(在“--”的前面)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(65): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(66): error C2143: 语法错误 : 缺少“;”(在“常量”的前面)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(66): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(68): error C2144: 语法错误:“void”的前面应有“;”
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(68): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(68): error C2143: 语法错误 : 缺少“,”(在“&”的前面)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(69): error C2143: 语法错误 : 缺少“;”(在“常量”的前面)
+c:\users\wyw15\desktop\新建代码1\test7_30\test7_30\test.cpp(69): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
