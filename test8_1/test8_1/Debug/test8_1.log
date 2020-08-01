@@ -1,0 +1,4 @@
+﻿  test.c
+c:\users\wyw15\desktop\新建代码1\test8_1\test8_1\test.c(44): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
+c:\users\wyw15\desktop\新建代码1\test8_1\test8_1\test.c(46): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
+c:\users\wyw15\desktop\新建代码1\test8_1\test8_1\test.c(48): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
