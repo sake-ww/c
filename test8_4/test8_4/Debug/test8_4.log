@@ -1,0 +1,49 @@
+﻿  test.c
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(62): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(62): warning C4047: “==”:“int”与“ListNode *”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(64): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(64): warning C4047: “==”:“int”与“ListNode *”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(68): error C2065: “ListNode”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(68): error C2065: “cur1”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(68): warning C4047: “=”:“int”与“ListNode *”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(68): error C2106: “=”: 左操作数必须为左值
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(69): error C2065: “ListNode”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(69): error C2065: “cur2”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(69): warning C4047: “=”:“int”与“ListNode *”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(69): error C2106: “=”: 左操作数必须为左值
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(70): error C2065: “ListNode”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(70): error C2146: 语法错误: 缺少“;”(在标识符“newhead”的前面)
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(70): error C2065: “newhead”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(71): error C2065: “ListNode”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(71): error C2065: “tailNode”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(71): error C2065: “newhead”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(71): warning C4047: “=”:“int”与“int *”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(71): error C2106: “=”: 左操作数必须为左值
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(73): error C2065: “cur1”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(73): error C2065: “cur2”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(75): error C2065: “cur1”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(75): error C2223: “->val1”的左侧必须指向结构/联合
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(75): error C2065: “cur2”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(75): error C2223: “->val”的左侧必须指向结构/联合
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(77): error C2065: “tailNode”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(77): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(77): error C2065: “cur1”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(78): error C2065: “cur1”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(78): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(82): error C2065: “tailNode”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(82): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(82): error C2065: “cur2”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(83): error C2065: “cur2”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(83): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(85): error C2065: “tailNode”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(85): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(87): error C2065: “cur1”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(88): error C2065: “tailNode”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(88): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(88): error C2065: “cur1”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(90): error C2065: “tailNode”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(90): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(90): error C2065: “cur2”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(92): error C2065: “newhead”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(92): error C2224: “.next”的左侧必须具有结构/联合类型
+c:\users\wyw15\desktop\新建代码1\test8_4\test8_4\test.c(92): warning C4033: “mergeTwoLists”必须返回值
