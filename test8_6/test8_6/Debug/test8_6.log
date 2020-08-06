@@ -1,0 +1,5 @@
+﻿  test.c
+c:\users\wyw15\desktop\新建代码1\test8_6\test8_6\test.c(13): error C2061: 语法错误: 标识符“Partition”
+c:\users\wyw15\desktop\新建代码1\test8_6\test8_6\test.c(13): error C2059: 语法错误:“;”
+c:\users\wyw15\desktop\新建代码1\test8_6\test8_6\test.c(14): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\users\wyw15\desktop\新建代码1\test8_6\test8_6\test.c(48): error C2059: 语法错误:“}”
