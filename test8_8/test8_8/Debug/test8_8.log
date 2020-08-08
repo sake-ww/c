@@ -1,0 +1,33 @@
+﻿  test.c
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(38): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(38): warning C4047: “==”:“int”与“ListNode *”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(39): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(39): warning C4047: “return”:“ListNode *”与“int”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(43): error C2275: “ListNode”: 将此类型用作表达式非法
+          c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(34) : 参见“ListNode”的声明
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(43): error C2065: “curA”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(45): error C2065: “curA”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(45): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(47): error C2065: “count”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(48): error C2065: “curA”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(48): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(51): warning C4133: “初始化”: 从“ListNode *”到“ListNode *”的类型不兼容
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(53): error C2037: “next”的左侧部分指定未定义的结构/联合“listNode”
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(56): error C2037: “next”的左侧部分指定未定义的结构/联合“listNode”
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(60): error C2065: “curA”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(60): warning C4047: “!=”:“int”与“ListNode *”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(61): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(61): warning C4047: “return”:“ListNode *”与“int”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(65): error C2065: “curA”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(65): warning C4047: “=”:“int”与“ListNode *”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(66): warning C4133: “=”: 从“ListNode *”到“ListNode *”的类型不兼容
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(71): error C2065: “curA”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(71): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(77): error C2037: “next”的左侧部分指定未定义的结构/联合“listNode”
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(82): error C2065: “curA”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(82): warning C4047: “!=”:“int”与“ListNode *”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(84): error C2065: “curA”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(84): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(85): error C2037: “next”的左侧部分指定未定义的结构/联合“listNode”
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(88): error C2065: “curA”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_8\test8_8\test.c(88): warning C4047: “return”:“ListNode *”与“int”的间接级别不同
