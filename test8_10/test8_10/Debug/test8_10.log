@@ -1,0 +1,24 @@
+﻿  test.c
+c:\users\wyw15\desktop\新建代码1\test8_10\test8_10\test.c(28): error C2061: 语法错误: 标识符“ListNode”
+c:\users\wyw15\desktop\新建代码1\test8_10\test8_10\test.c(28): error C2059: 语法错误:“;”
+c:\users\wyw15\desktop\新建代码1\test8_10\test8_10\test.c(28): error C2143: 语法错误 : 缺少“)”(在“*”的前面)
+c:\users\wyw15\desktop\新建代码1\test8_10\test8_10\test.c(28): error C2143: 语法错误 : 缺少“{”(在“*”的前面)
+c:\users\wyw15\desktop\新建代码1\test8_10\test8_10\test.c(28): error C2059: 语法错误:“)”
+c:\users\wyw15\desktop\新建代码1\test8_10\test8_10\test.c(29): error C2054: 在“head”之后应输入“(”
+c:\users\wyw15\desktop\新建代码1\test8_10\test8_10\test.c(45): error C2065: “ListNode”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_10\test8_10\test.c(45): error C2065: “pM”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_10\test8_10\test.c(45): warning C4013: “hasCycle”未定义；假设外部返回 int
+c:\users\wyw15\desktop\新建代码1\test8_10\test8_10\test.c(45): error C2106: “=”: 左操作数必须为左值
+c:\users\wyw15\desktop\新建代码1\test8_10\test8_10\test.c(47): error C2065: “fast”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_10\test8_10\test.c(47): error C2065: “slow”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_10\test8_10\test.c(48): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_10\test8_10\test.c(48): warning C4047: “return”:“ListNode *”与“int”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_10\test8_10\test.c(50): error C2065: “ListNode”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_10\test8_10\test.c(50): error C2065: “pH”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_10\test8_10\test.c(50): warning C4047: “=”:“int”与“ListNode *”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_10\test8_10\test.c(50): error C2106: “=”: 左操作数必须为左值
+c:\users\wyw15\desktop\新建代码1\test8_10\test8_10\test.c(51): error C2059: 语法错误:“)”
+c:\users\wyw15\desktop\新建代码1\test8_10\test8_10\test.c(54): error C2065: “pM”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_10\test8_10\test.c(54): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\wyw15\desktop\新建代码1\test8_10\test8_10\test.c(56): error C2059: 语法错误:“return”
+c:\users\wyw15\desktop\新建代码1\test8_10\test8_10\test.c(57): error C2059: 语法错误:“}”
