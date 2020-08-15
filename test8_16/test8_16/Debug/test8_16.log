@@ -1,0 +1,64 @@
+﻿  test.c
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(44): warning C4013: “malloc”未定义；假设外部返回 int
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(44): error C2027: 使用了未定义类型“Node”
+          c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(40) : 参见“Node”的声明
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(45): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(45): warning C4047: “==”:“int”与“Node *”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(46): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(46): warning C4047: “return”:“Node *”与“int”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(48): error C2037: “val”的左侧部分指定未定义的结构/联合“Node”
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(48): error C2065: “cur”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(48): error C2223: “->val”的左侧必须指向结构/联合
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(49): error C2037: “next”的左侧部分指定未定义的结构/联合“Node”
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(49): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(50): error C2037: “random”的左侧部分指定未定义的结构/联合“Node”
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(50): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(56): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(56): warning C4047: “==”:“int”与“Node *”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(57): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(57): warning C4047: “return”:“Node *”与“int”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(60): error C2275: “Node”: 将此类型用作表达式非法
+          c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(40) : 参见“Node”的声明
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(60): error C2065: “cur”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(61): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(61): warning C4047: “初始化”:“Node *”与“int”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(62): error C2065: “cur”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(64): error C2065: “cur”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(64): error C2223: “->val”的左侧必须指向结构/联合
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(64): error C2198: “BuyRandomListNode”: 用于调用的参数太少
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(65): error C2143: 语法错误 : 缺少“;”(在“if”的前面)
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(65): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(65): warning C4047: “==”:“int”与“Node *”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(66): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(66): warning C4047: “return”:“Node *”与“int”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(68): error C2037: “next”的左侧部分指定未定义的结构/联合“Node”
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(68): error C2065: “cur”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(68): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(69): error C2065: “cur”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(69): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(70): error C2065: “cur”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(70): error C2037: “next”的左侧部分指定未定义的结构/联合“Node”
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(74): error C2065: “cur”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(74): warning C4047: “=”:“int”与“Node *”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(75): error C2065: “cur”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(77): error C2065: “cur”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(77): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(78): error C2065: “cur”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(78): error C2223: “->random”的左侧必须指向结构/联合
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(79): error C2037: “random”的左侧部分指定未定义的结构/联合“Node”
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(79): error C2065: “cur”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(79): error C2223: “->random”的左侧必须指向结构/联合
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(81): error C2065: “cur”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(81): error C2037: “next”的左侧部分指定未定义的结构/联合“Node”
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(85): error C2037: “next”的左侧部分指定未定义的结构/联合“Node”
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(86): error C2065: “cur”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(86): warning C4047: “=”:“int”与“Node *”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(87): error C2065: “cur”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(87): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(89): error C2065: “cur”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(89): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(90): error C2065: “cur”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(90): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(90): error C2037: “next”的左侧部分指定未定义的结构/联合“Node”
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(91): error C2065: “cur”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_16\test8_16\test.c(91): warning C4047: “=”:“int”与“Node *”的间接级别不同
