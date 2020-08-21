@@ -1,0 +1,15 @@
+﻿  test.c
+c:\users\wyw15\desktop\新建代码1\test8_21\test8_21\test.c(39): warning C4013: “assert”未定义；假设外部返回 int
+c:\users\wyw15\desktop\新建代码1\test8_21\test8_21\test.c(40): warning C4013: “malloc”未定义；假设外部返回 int
+c:\users\wyw15\desktop\新建代码1\test8_21\test8_21\test.c(41): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_21\test8_21\test.c(41): warning C4047: “==”:“int”与“SDataType *”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_21\test8_21\test.c(59): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_21\test8_21\test.c(59): warning C4047: “==”:“SDataType *”与“int”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_21\test8_21\test.c(65): warning C4013: “memcpy”未定义；假设外部返回 int
+c:\users\wyw15\desktop\新建代码1\test8_21\test8_21\test.c(67): warning C4013: “free”未定义；假设外部返回 int
+c:\users\wyw15\desktop\新建代码1\test8_21\test8_21\test.c(120): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_21\test8_21\test.c(120): warning C4047: “=”:“SDataType *”与“int”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_21\test8_21\test.c(125): error C2061: 语法错误: 标识符“isValid”
+c:\users\wyw15\desktop\新建代码1\test8_21\test8_21\test.c(125): error C2059: 语法错误:“;”
+c:\users\wyw15\desktop\新建代码1\test8_21\test8_21\test.c(125): error C2059: 语法错误:“类型”
+c:\users\wyw15\desktop\新建代码1\test8_21\test8_21\test.c(172): error C2059: 语法错误:“return”
