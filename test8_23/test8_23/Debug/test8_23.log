@@ -1,0 +1,36 @@
+﻿  test.c
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(31): warning C4013: “assert”未定义；假设外部返回 int
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(32): error C2065: “SDataType”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(32): error C2059: 语法错误:“)”
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(33): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(33): warning C4047: “==”:“int”与“DataType *”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(50): error C2065: “SDataType”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(50): error C2065: “temp”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(50): error C2059: 语法错误:“)”
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(51): error C2065: “temp”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(51): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(57): warning C4013: “memcpy”未定义；假设外部返回 int
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(57): error C2065: “temp”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(57): error C2065: “SDataType”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(59): warning C4013: “free”未定义；假设外部返回 int
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(61): error C2065: “temp”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(61): warning C4047: “=”:“DataType *”与“int”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(68): error C2146: 语法错误: 缺少“)”(在标识符“data”的前面)
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(68): error C2081: “SDataType”: 形参表中的名称非法
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(68): error C2061: 语法错误: 标识符“data”
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(68): error C2059: 语法错误:“;”
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(68): error C2059: 语法错误:“)”
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(69): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(73): error C2059: 语法错误:“}”
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(85): error C2061: 语法错误: 标识符“StackTop”
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(85): error C2059: 语法错误:“;”
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(85): error C2059: 语法错误:“类型”
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(110): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(110): warning C4047: “=”:“DataType *”与“int”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(125): warning C4013: “malloc”未定义；假设外部返回 int
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(134): warning C4013: “StackPush”未定义；假设外部返回 int
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(145): warning C4013: “StackTop”未定义；假设外部返回 int
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(146): warning C4013: “StackPop”未定义；假设外部返回 int
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(171): error C2061: 语法错误: 标识符“myQueueEmpty”
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(171): error C2059: 语法错误:“;”
+c:\users\wyw15\desktop\新建代码1\test8_23\test8_23\test.c(171): error C2059: 语法错误:“类型”
