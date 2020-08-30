@@ -1,0 +1,6 @@
+﻿  test.c
+c:\users\wyw15\desktop\新建代码1\test_queues\test_queues\test.c(6): error C2198: “myCircularQueueFree”: 用于调用的参数太少
+  queues.c
+c:\users\wyw15\desktop\新建代码1\test_queues\test_queues\queues.c(18): error C2371: “MyCircularQueue”: 重定义；不同的基类型
+          c:\users\wyw15\desktop\新建代码1\test_queues\test_queues\queues.h(13) : 参见“MyCircularQueue”的声明
+  正在生成代码...
