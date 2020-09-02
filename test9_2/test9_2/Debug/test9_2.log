@@ -1,0 +1,7 @@
+﻿  test.c
+c:\users\wyw15\desktop\新建代码1\test9_2\test9_2\test.c(2): error C2059: 语法错误:“常量”
+c:\users\wyw15\desktop\新建代码1\test9_2\test9_2\test.c(15): error C2061: 语法错误: 标识符“DataType”
+c:\users\wyw15\desktop\新建代码1\test9_2\test9_2\test.c(16): error C2059: 语法错误:“}”
+c:\users\wyw15\desktop\新建代码1\test9_2\test9_2\test.c(19): error C2061: 语法错误: 标识符“孩子兄弟表示法：不需要递归，只需要循环便可遍历链表”
+c:\users\wyw15\desktop\新建代码1\test9_2\test9_2\test.c(19): error C2059: 语法错误:“;”
+c:\users\wyw15\desktop\新建代码1\test9_2\test9_2\test.c(22): error C2059: 语法错误:“常量”
