@@ -1,0 +1,7 @@
+﻿  test.c
+c:\users\wyw15\desktop\新建代码1\test9_9\test9_9\test.c(2): error C2059: 语法错误:“常量”
+c:\users\wyw15\desktop\新建代码1\test9_9\test9_9\test.c(10): error C3872: “0xa0”:  此字符不允许在标识符中使用
+c:\users\wyw15\desktop\新建代码1\test9_9\test9_9\test.c(16): error C3872: “0xa0”:  此字符不允许在标识符中使用
+c:\users\wyw15\desktop\新建代码1\test9_9\test9_9\test.c(36): error C2054: 在“延申：当链表个数为偶数个时，上面时取中间两个中后一个，如果要取前一个应如何？”之后应输入“(”
+c:\users\wyw15\desktop\新建代码1\test9_9\test9_9\test.c(37): error C2085: “middleNode”: 不在形参表中
+c:\users\wyw15\desktop\新建代码1\test9_9\test9_9\test.c(37): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
