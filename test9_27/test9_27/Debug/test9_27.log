@@ -1,0 +1,7 @@
+﻿  test.c
+c:\users\wyw15\desktop\新建代码1\test9_27\test9_27\test.c(18): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test9_27\test9_27\test.c(18): warning C4047: “==”:“int”与“TreeNode *”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test9_27\test9_27\test.c(21): error C2037: “left”的左侧部分指定未定义的结构/联合“TreeNode”
+c:\users\wyw15\desktop\新建代码1\test9_27\test9_27\test.c(21): error C2198: “maxDepth”: 用于调用的参数太少
+c:\users\wyw15\desktop\新建代码1\test9_27\test9_27\test.c(22): error C2037: “right”的左侧部分指定未定义的结构/联合“TreeNode”
+c:\users\wyw15\desktop\新建代码1\test9_27\test9_27\test.c(22): error C2198: “maxDepth”: 用于调用的参数太少
