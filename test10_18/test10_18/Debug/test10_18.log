@@ -1,0 +1,7 @@
+﻿  test.c
+c:\users\wyw15\desktop\新建代码1\test10_18\test10_18\test.c(3): error C2059: 语法错误:“常量”
+c:\users\wyw15\desktop\新建代码1\test10_18\test10_18\test.c(9): error C2017: 非法的转义序列
+c:\users\wyw15\desktop\新建代码1\test10_18\test10_18\test.c(16): error C2017: 非法的转义序列
+c:\users\wyw15\desktop\新建代码1\test10_18\test10_18\test.c(32): error C2061: 语法错误: 标识符“isSymmetric”
+c:\users\wyw15\desktop\新建代码1\test10_18\test10_18\test.c(32): error C2059: 语法错误:“;”
+c:\users\wyw15\desktop\新建代码1\test10_18\test10_18\test.c(32): error C2059: 语法错误:“类型”
