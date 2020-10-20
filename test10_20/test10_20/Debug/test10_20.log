@@ -1,0 +1,20 @@
+﻿  test.c
+c:\users\wyw15\desktop\新建代码1\test10_20\test10_20\test.c(6): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test10_20\test10_20\test.c(6): warning C4047: “==”:“int”与“TreeNode *”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test10_20\test10_20\test.c(9): error C2037: “left”的左侧部分指定未定义的结构/联合“TreeNode”
+c:\users\wyw15\desktop\新建代码1\test10_20\test10_20\test.c(9): error C2198: “GetSize”: 用于调用的参数太少
+c:\users\wyw15\desktop\新建代码1\test10_20\test10_20\test.c(9): error C2037: “right”的左侧部分指定未定义的结构/联合“TreeNode”
+c:\users\wyw15\desktop\新建代码1\test10_20\test10_20\test.c(13): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test10_20\test10_20\test.c(13): warning C4047: “==”:“int”与“TreeNode *”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test10_20\test10_20\test.c(17): error C2037: “left”的左侧部分指定未定义的结构/联合“TreeNode”
+c:\users\wyw15\desktop\新建代码1\test10_20\test10_20\test.c(17): warning C4133: “函数”: 从“int *”到“TreeNode *”的类型不兼容
+c:\users\wyw15\desktop\新建代码1\test10_20\test10_20\test.c(17): error C2198: “_preorderTraversal”: 用于调用的参数太少
+c:\users\wyw15\desktop\新建代码1\test10_20\test10_20\test.c(18): error C2037: “val”的左侧部分指定未定义的结构/联合“TreeNode”
+c:\users\wyw15\desktop\新建代码1\test10_20\test10_20\test.c(19): error C2037: “right”的左侧部分指定未定义的结构/联合“TreeNode”
+c:\users\wyw15\desktop\新建代码1\test10_20\test10_20\test.c(19): warning C4133: “函数”: 从“int *”到“TreeNode *”的类型不兼容
+c:\users\wyw15\desktop\新建代码1\test10_20\test10_20\test.c(19): error C2198: “_preorderTraversal”: 用于调用的参数太少
+c:\users\wyw15\desktop\新建代码1\test10_20\test10_20\test.c(28): warning C4013: “malloc”未定义；假设外部返回 int
+c:\users\wyw15\desktop\新建代码1\test10_20\test10_20\test.c(29): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test10_20\test10_20\test.c(29): warning C4047: “==”:“int”与“int *”的间接级别不同
+c:\users\wyw15\desktop\新建代码1\test10_20\test10_20\test.c(30): error C2065: “NULL”: 未声明的标识符
+c:\users\wyw15\desktop\新建代码1\test10_20\test10_20\test.c(30): warning C4047: “return”:“int *”与“int”的间接级别不同
