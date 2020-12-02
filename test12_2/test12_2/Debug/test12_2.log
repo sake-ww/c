@@ -1,0 +1,2 @@
+﻿MSVCRTD.lib(crtexe.obj) : error LNK2019: 无法解析的外部符号 _main，该符号在函数 ___tmainCRTStartup 中被引用
+C:\Users\wyw15\Desktop\新建代码1\test12_2\Debug\test12_2.exe : fatal error LNK1120: 1 个无法解析的外部命令
